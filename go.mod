@@ -1,4 +1,4 @@
-module github.com/gobuffalo/buffalo-auth
+module github.com/inglemr/buffalo-auth
 
 go 1.18
 

@@ -3,9 +3,9 @@ package cmd
 import (
 	"context"
 
-	"github.com/gobuffalo/buffalo-auth/genny/auth"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/gobuffalo/genny/v2/gogen"
+	"github.com/inglemr/buffalo-auth/genny/auth"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
